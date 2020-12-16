@@ -1,2 +1,2 @@
-# Nepali-Fonts-for-Window-and-Mac
+Nepali fonts for Windows and Mac.
  
