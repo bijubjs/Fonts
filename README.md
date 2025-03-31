@@ -1,1 +1,1 @@
-Collection of fonts for Mac and Window based PCs. i don't own any copyright to these fonts. Please let me know if you own copyright and want me to remove any file from this repository.
+Collection of all kinds of fonts for Window and Mac. This shall not be used for commercial purpose. I am compiling them for my personal and academic use. If you own copyright for these files and you want me to remove them from repositories, I will be happy to do so. Please let me know.
